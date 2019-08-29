@@ -5,6 +5,6 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-4": {"yueool\\lib\\": ""}
+        "psr-4": {"yueool\\lib\\": "src/"}
     },
 }
