@@ -1,0 +1,10 @@
+{
+    "name": "yueool/lib",
+    "description": "基础类库",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"yueool\\lib\\": ""}
+    },
+}
